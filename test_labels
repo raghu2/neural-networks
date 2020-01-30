@@ -1,0 +1,11 @@
+--2018-10-28 19:23:50--  https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/arcene_valid.labels
+Resolving archive.ics.uci.edu (archive.ics.uci.edu)... 128.195.10.249
+Connecting to archive.ics.uci.edu (archive.ics.uci.edu)|128.195.10.249|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256 [text/plain]
+Saving to: ‘arcene_valid.labels’
+
+     0K                                                       100% 6.38M=0s
+
+2018-10-28 19:23:51 (6.38 MB/s) - ‘arcene_valid.labels’ saved [256/256]
+
